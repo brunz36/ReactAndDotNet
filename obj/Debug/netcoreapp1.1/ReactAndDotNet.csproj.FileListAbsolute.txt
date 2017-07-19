@@ -1,0 +1,8 @@
+/Users/brunoribeiro/Projects/ReactAndDotNet/bin/Debug/netcoreapp1.1/ReactAndDotNet.deps.json
+/Users/brunoribeiro/Projects/ReactAndDotNet/bin/Debug/netcoreapp1.1/ReactAndDotNet.runtimeconfig.json
+/Users/brunoribeiro/Projects/ReactAndDotNet/bin/Debug/netcoreapp1.1/ReactAndDotNet.runtimeconfig.dev.json
+/Users/brunoribeiro/Projects/ReactAndDotNet/bin/Debug/netcoreapp1.1/ReactAndDotNet.dll
+/Users/brunoribeiro/Projects/ReactAndDotNet/bin/Debug/netcoreapp1.1/ReactAndDotNet.pdb
+/Users/brunoribeiro/Projects/ReactAndDotNet/obj/Debug/netcoreapp1.1/ReactAndDotNet.AssemblyInfo.cs
+/Users/brunoribeiro/Projects/ReactAndDotNet/obj/Debug/netcoreapp1.1/ReactAndDotNet.dll
+/Users/brunoribeiro/Projects/ReactAndDotNet/obj/Debug/netcoreapp1.1/ReactAndDotNet.pdb
